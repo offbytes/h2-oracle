@@ -1,0 +1,1 @@
+CREATE ALIAS IS_PRIME FOR "com.offbytes.h2.oracle.DateFunctions";
