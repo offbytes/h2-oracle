@@ -1,0 +1,6 @@
+This library contains functions for H2 database to ensure compatibility with Oracle DB. 
+One of possible usage is making easy to export testing data from Oracle DB to H2 in-memory database.
+
+== Usage ==
+Load sql script from classpath: com/offbytes/h2/oracle/functions.sql
+ 
